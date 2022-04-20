@@ -1,5 +1,5 @@
-package org.devops 
+package org.devops
 
-def PrintMsg(jenkins){
-  println(jenkins)
+def PrintMsg(value){
+	println(value)
 }
